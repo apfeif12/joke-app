@@ -128,7 +128,7 @@ color: white;
 font-size: 20px;
 padding-left: 1%;
 padding-right: 1%;
-padding-top: 5%;
+padding-top: 2%;
 
 `
 
